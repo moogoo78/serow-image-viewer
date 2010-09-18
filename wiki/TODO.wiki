@@ -1,0 +1,10 @@
+#summary todo list
+
+= refactor =
+ * clean up code
+ * doc
+ * testing
+
+= add features=
+ * config file
+ * icon
