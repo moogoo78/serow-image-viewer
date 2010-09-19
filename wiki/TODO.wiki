@@ -6,5 +6,5 @@
  * testing
 
 = add features=
- * config file
  * icon
+ * auto rotate by orientation tag of EXIF info
